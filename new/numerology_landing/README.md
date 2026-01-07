@@ -213,12 +213,6 @@ pnpm build
 - See `CLEAN_CODE_FINAL.md` for detailed code documentation
 - See `DEPLOYMENT_GUIDE.md` for deployment instructions
 
-## 📞 Support
-
-For issues or questions:
-1. Check the CLEAN_CODE_FINAL.md for detailed code documentation
-2. Review the comments in Home.tsx for section-specific details
-3. Visit the Manus help center: https://help.manus.im
 
 ## 📄 License
 
